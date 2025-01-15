@@ -1,14 +1,17 @@
-# John Doe - Software Quality Assurance Specialist
+# Jojie Avergonzado - Software Quality Assurance
 
-Welcome to my QA portfolio! I am a dedicated Software Quality Assurance (QA) professional with a strong background in both manual and automated testing. My goal is to ensure high-quality software by performing detailed testing and collaborating with developers to create stable, reliable products.
+Welcome to my QA portfolio! I am a dedicated Software Quality Assurance (QA) professional with experience in manual testing and a growing interest in test automation. My goal is to ensure high-quality software by performing detailed manual testing and collaborating with developers to create stable, reliable products. 
+
+While I am still building my skills in automated testing, I am excited to apply what I’ve learned so far and continue expanding my knowledge in this area.
+
 
 ---
 
 ## 🔧 Skills & Expertise
 - **Manual Testing**: Functional, Regression, Smoke, UAT
-- **Test Automation**: Selenium, Cypress, Appium, JUnit, TestNG
-- **CI/CD Integration**: Jenkins, GitLab CI
-- **Bug Tracking & Reporting**: Jira, Bugzilla, Trello
+- **Test Automation**: Selenium, Appium
+- **CI/CD Integration**: GitLab CI
+- **Bug Tracking & Reporting**: Trello, ASANA, Github
 - **Performance Testing**: JMeter
 - **Version Control**: Git, GitHub
 - **Testing Methodologies**: Agile, Scrum, Waterfall
